@@ -40,8 +40,8 @@ conda install -c conda-forge (Insert Package Here)
 ---------------
 There are 2 files related to data provided.
 * data
-|- user-item-interactions.csv (data about IBM users and their interactions with IBM Watson Studio articles.)
-|- articles_community.csv (all articles available on IBM Watson Studio platform)
+|- user-item-interactions.csv (data about IBM users and their interactions with IBM Watson Studio articles.)</br>
+|- articles_community.csv (all articles available on IBM Watson Studio platform)</br>
 
 * project_tests.py (python file for assessing the functions within notebook)
 * Recommendations_with_IBM.ipynb (jupyter notebook file containing all python script needed for recommendations)
@@ -49,9 +49,9 @@ There are 2 files related to data provided.
 
 ### Results and Findings
 ---------------
-* By applying all kinds of recommendation techniques one can accurately reccomend articles available to new and existing users. Natural language processing techniques can be really handy to reccomend similar articles based on content of article.
+* By applying all kinds of recommendation techniques one can accurately recommend articles available to new and existing users. Natural language processing techniques can be really handy to recommend similar articles based on content of article.
 
 ### Licensing, Authors, Acknowledgements
 ---------------
-This datasets are part of IBM Watson Studio.<br>
+This datasets are part of IBM Watson Studio Platform.<br>
 Thanks to [Udacity.com](https://classroom.udacity.com) for an amazing Data Science course.

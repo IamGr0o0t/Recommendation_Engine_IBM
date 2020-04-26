@@ -39,7 +39,7 @@ conda install -c conda-forge (Insert Package Here)
 ### File descriptions
 ---------------
 There are 2 files related to data provided.
-* data
+* data</br>
 |- user-item-interactions.csv (data about IBM users and their interactions with IBM Watson Studio articles.)</br>
 |- articles_community.csv (all articles available on IBM Watson Studio platform)</br>
 
